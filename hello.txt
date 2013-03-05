@@ -1,1 +1,3 @@
 Hello, and welcome to Software Carpentry!
+We have been working hard
+
